@@ -1,3 +1,3 @@
-<cfset a = 1>
+<cfset a = 5>
 <cfset b = 2>
 <cfset c = a+b>
