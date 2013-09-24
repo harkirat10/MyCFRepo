@@ -3,3 +3,4 @@
 <cfset c = a+b>
 <cfset d = a*b>
 <cfset e = a/b>
+<cfset f = a-b>
